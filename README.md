@@ -27,3 +27,8 @@ $ pip install -r requirements.txt
 ```bash
 $ $ cp .env.example .env
 ```
+
+## Run the FastAPI Server 
+```bash
+uvicorn main:app --reload
+```

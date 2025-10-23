@@ -1,0 +1,49 @@
+{
+	"info": {
+		"_postman_id": "10f7b5f7-f156-4a22-842a-b205f2de458f",
+		"name": "mini-rag-app",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49492479",
+		"_collection_link": "https://sahar-hamdy-7666132.postman.co/workspace/Sahar-Hamdy's-Workspace~166b89a1-3920-44a6-8566-5338bf4fce0e/collection/49492479-10f7b5f7-f156-4a22-842a-b205f2de458f?action=share&source=collection_link&creator=49492479"
+	},
+	"item": [
+		{
+			"name": "welcome-request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "api",
+			"value": ""
+		}
+	]
+}
